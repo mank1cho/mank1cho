@@ -1,6 +1,7 @@
-<h3>北京交通大学 软件工程 专业</h3>  
-<h3>Naver Cloud PaaS Dev (Intern)</h3>  
-<h3>SSAFY 5기</h3>  
+<h3>北京交通大学 软件工程 专业<h3>  
+<h3>Naver Cloud PaaS Dev (Intern)<h3>  
+<h3>SSAFY 5기</h3>
+  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -8,10 +9,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  
-<br></br>
   
-    
-    
+  
+  <br></br>
+
 [![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho)]  
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangman821)]  
