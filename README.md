@@ -1,3 +1,4 @@
+  
 <h3>北京交通大学 软件工程 专业<h3>  
 <h3>Naver Cloud PaaS Dev (Intern)<h3>  
 <h3>SSAFY 5기</h3>
@@ -11,11 +12,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  
   
   
-  <br></br>
-
-[![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho)]  
+![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho)  
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangman821)]  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangman821)  
 
 
 <!--
