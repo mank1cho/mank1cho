@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>  
   
   
-![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho&show_icons=true&theme=radical)
+![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mank1cho&langs_count=3&layout=compact&theme=radical)  
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangman821)  
