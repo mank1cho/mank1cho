@@ -1,6 +1,6 @@
 <h3>2017~2019. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) <h3>
 <h3>2020. Naver Cloud PaaS Dev (Intern) <h3>  
-<h3>2021. SSAFY 5기</h3>
+<h3>2021. SSAFY 5기, eBay Korea Sell POD</h3>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
