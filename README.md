@@ -1,7 +1,4 @@
-<h3>2017~2019. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) <h3>
-<h3>2020. Naver Cloud PaaS Dev (Intern) <h3>  
-<h3>2021. SSAFY 5기, eBay Korea Sell POD</h3>
-
+<h1> 개발자 만기😄 </h1>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -9,7 +6,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>   
-  
+
+<h3>2017~2019. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) <h3>
+<h3>2020. Naver Cloud PaaS Dev (Intern) <h3>  
+<h3>2021. 삼성 청년 소프트웨어 아카데미(SSAFY) 5기</h3>
+<h3> 현) eBay Korea Sell POD Back-end 개발자 </h3>  
   
 ![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mank1cho&langs_count=3&layout=compact&theme=radical)  
