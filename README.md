@@ -11,7 +11,7 @@
 <h3>2017~2019. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
 <h3>2020. Naver Cloud PaaS Dev (Intern) </h3>  
 <h3>2021. 삼성 청년 소프트웨어 아카데미(SSAFY) 5기</h3>
-<h3> 현) eBay Korea Sell POD Back-end 개발자 </h3>  
+<h3> 현) eBay Korea Sell POD 신입사원😄 </h3>  
 
 
 ![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho&show_icons=true&theme=radical)  
