@@ -10,14 +10,14 @@
 <h3>2017~2019. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
 <h3>2020. Naver Cloud PaaS Dev (Intern) </h3>  
 <h3>2021. 삼성 청년 소프트웨어 아카데미(SSAFY) 5기</h3>
-<h3>2021~ ebay Korea  Item BackEnd</h3>
+<h3>2021~ ebay Korea  Item Engineering</h3>
 
+<h3> 개인블로그 : https://blog.naver.com/jjangman821 </h2>
 
 ![manki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mank1cho&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mank1cho&langs_count=3&layout=compact&theme=radical)  
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangman821)  
-
 
 <!--
 **mank1cho/mank1cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
