@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
 <h3>2017~2019. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
-<h3>2020. Naver Cloud PaaS Dev (Intern) </h3>  
+<h3>2020. Naver Cloud PaaS Dev </h3>  
 <h3>2021. 삼성 청년 소프트웨어 아카데미(SSAFY) 5기</h3>
-<h3>2021~ ebay Korea  Item Engineering</h3>
+<h3>2021~ ebay Korea Item Engineering</h3>
 
 <h3> 개인블로그 : https://blog.naver.com/jjangman821 </h2>
 
