@@ -21,7 +21,7 @@
 <h3>2020. [Naver Cloud] PaaS Dev </h3>  
 <h3>2021. 삼성 청년 소프트웨어 아카데미(SSAFY) </h3>
 <h3>2021. [ebay Korea] Item Engineering</h3>
-<h3>2022~ [Gmarket Item] Engineering</h3>
+<h3>2022~ [Gmarket] Item Engineering</h3>
 
 <br></br>
 
