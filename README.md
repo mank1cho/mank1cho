@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
 
 <h3>2017~2019. 北京交通大学 软件工程 专业 (Beijing jiaotong University Software Engineering) </h3>
-<h3>2020. Naver Cloud / PaaS Dev </h3>  
+<h3>2020. Naver Cloud . PaaS Dev </h3>  
 <h3>2021. 삼성 청년 소프트웨어 아카데미(SSAFY) </h3>
-<h3>2021. ebay Korea / Item Engineering</h3>
-<h3>2022~ Gmarket / Item Engineering</h3>
+<h3>2021. ebay Korea . Item Engineering</h3>
+<h3>2022~ Gmarket . Item Engineering</h3>
 
 <br></br>
 
